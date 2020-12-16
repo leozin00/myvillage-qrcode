@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/techiediaries/ng2-qrcode-reader/issues"
+    "url": "https://github.com/leozin00/myvillage-qrcode"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",
@@ -58,7 +58,7 @@
     "qrcode-reader": "^1.0.0"
   },
   "description": "An Angular 4+ Component library for Reading  QR (Quick Response ) Codes .",
-  "homepage": "https://github.com/techiediaries/ng2-qrcode-reader#readme",
+  "homepage": "https://github.com/leozin00/myvillage-qrcode#readme",
   "main": "gulpfile.js",
   "directories": {
     "doc": "docs"
