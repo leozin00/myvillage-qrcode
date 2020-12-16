@@ -1,5 +1,5 @@
 {
-  "name": "ng2-qrcode-reader",
+  "name": "myvillage-qrcode",
   "version": "0.0.1",
   "scripts": {
     "build": "gulp build",
@@ -9,12 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/techiediaries/ng2-qrcode-reader"
+    "url": "https://github.com/leozin00/myvillage-qrcode"
   },
-  "author": {
-    "name": "Techiediaries",
-    "email": "techiediaries9@gmail.com"
-  },
+  "author": "Techiediaries <techiediaries9@gmail.com>",
   "keywords": [
     "angular"
   ],
@@ -59,5 +56,11 @@
   },
   "dependencies": {
     "qrcode-reader": "^1.0.0"
+  },
+  "description": "An Angular 4+ Component library for Reading  QR (Quick Response ) Codes .",
+  "homepage": "https://github.com/techiediaries/ng2-qrcode-reader#readme",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
   }
 }
